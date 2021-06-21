@@ -1,4 +1,4 @@
-# LARVALE + Permissions
+# LARAVEL + ROLES AND PERMISSIONS
 
 ___
 
